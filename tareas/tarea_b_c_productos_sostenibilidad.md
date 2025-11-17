@@ -13,7 +13,7 @@ Debes basarte en una aplicación real encontrada en noticias o informes.
 
 | Tecnología | Producto/servicio digital | Caso real encontrado (enlace) | Beneficio para el cliente | Beneficio para la empresa |
 |-----------|----------------------------|-------------------------------|----------------------------|---------------------------|
-| IA |Plataforma de optimización de red y predicción de producción renovable (forecasting + optimización mantenimiento predictivo). |i-DS / retos IA para optimizar capacidad de red y proyectos de predicción MeteoFlow; colaboración con BCAM y startups para modelos IA. |Predicciones más precisas de producción renovable y menos cortes; mejores tarifas dinámicas y menor riesgo de desbalance. |Mayor eficiencia en gestión de activos, reducción de costes operativos y mejor integración renovable (menos penalizaciones y pérdidas). |
+| IA |Plataforma de optimización de red y predicción de producción renovable (forecasting + optimización mantenimiento predictivo). |i-DS / retos IA para optimizar capacidad de red y proyectos de predicción MeteoFlow; colaboración con BCAM y startups para modelos IA. https://www.iberdrolaespana.com/press-room/news/detail/240129-iberdrola-espana-and-bcam-will-colaborate-in-the-ai-innovation-data-space-project-to-optimise-grids?utm_source=chatgpt.com|Predicciones más precisas de producción renovable y menos cortes; mejores tarifas dinámicas y menor riesgo de desbalance. |Mayor eficiencia en gestión de activos, reducción de costes operativos y mejor integración renovable (menos penalizaciones y pérdidas). |
 | IoT | | | | |
 | Big Data | | | | |
 | Cloud Computing | | | | |
