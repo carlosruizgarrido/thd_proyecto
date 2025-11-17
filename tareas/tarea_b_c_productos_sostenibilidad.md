@@ -2,7 +2,7 @@
 
 ## 🏢 Empresa seleccionada
 Breve descripción de la empresa real o ficticia.
-
+Iberdrola — Grupo energético multinacional con actividad en generación (renovables y convencionales), redes/distribución, comercialización y soluciones digitales. Fuerte apuesta por digitalización, smart grids, datos, IA y migración a la nube para optimizar operaciones y ofrecer nuevos servicios a clientes.
 ---
 
 ## 🧩 Relación entre THD y productos/servicios
