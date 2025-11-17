@@ -4,6 +4,7 @@
 Breve descripción de la empresa real o ficticia.
 
 Iberdrola — Grupo energético multinacional con actividad en generación (renovables y convencionales), redes/distribución, comercialización y soluciones digitales. Fuerte apuesta por digitalización, smart grids, datos, IA y migración a la nube para optimizar operaciones y ofrecer nuevos servicios a clientes.
+
 ---
 
 ## 🧩 Relación entre THD y productos/servicios
@@ -12,7 +13,7 @@ Debes basarte en una aplicación real encontrada en noticias o informes.
 
 | Tecnología | Producto/servicio digital | Caso real encontrado (enlace) | Beneficio para el cliente | Beneficio para la empresa |
 |-----------|----------------------------|-------------------------------|----------------------------|---------------------------|
-| IA |Plataforma de optimización de red y predicción de producción renovable (forecasting + optimización mantenimiento predictivo). | | | |
+| IA |Plataforma de optimización de red y predicción de producción renovable (forecasting + optimización mantenimiento predictivo). |i-DS / retos IA para optimizar capacidad de red y proyectos de predicción MeteoFlow; colaboración con BCAM y startups para modelos IA. |Predicciones más precisas de producción renovable y menos cortes; mejores tarifas dinámicas y menor riesgo de desbalance. |Mayor eficiencia en gestión de activos, reducción de costes operativos y mejor integración renovable (menos penalizaciones y pérdidas). |
 | IoT | | | | |
 | Big Data | | | | |
 | Cloud Computing | | | | |
