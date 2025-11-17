@@ -64,9 +64,18 @@ Aplicación: Entrenamiento VR para brigadas de mantenimiento y RA sobre disposit
 ---
 
 ## 🧠 Reflexión final
-- ¿Qué tecnología aporta más valor a los productos/servicios?
-- ¿Cuál genera mayor impacto sostenible?
-- ¿Qué combinación sería más eficiente para la empresa?
+- ¿Qué tecnología aporta más valor a los productos/servicios? En una compañía energética integrada como Iberdrola, IA combinada con Big Data aporta el mayor valor inmediato: mejor forecasting, optimización de activos y capacidad de lanzar servicios digitales (tarifas dinámicas, mantenimiento predictivo).
+- ¿Cuál genera mayor impacto sostenible? IoT + Big Data + IA en conjunto: permiten integrar más renovables, reducir pérdidas y adaptar demanda, con impacto directo en reducción de emisiones y mejor eficiencia del sistema. Blockchain puede sumar transparencia en consumo renovable, pero su impacto depende del diseño (consumo energético del ledger).
+- ¿Qué combinación sería más eficiente para la empresa? Una pila integrada: IoT (sensórica/contadores) → Big Data (plataforma de datos) → Cloud (escala y HPC) → IA (modelos de predicción/optimización), con capa transversal de ciberseguridad y servicios de blockchain para certificación/trazabilidad. RA/RV actúa como multiplicador operativo (mantenimiento/ formación). Esta combinación maximiza eficiancia operativa, crea productos B2C/B2B y facilita la sostenibilidad.
 
 ## 📚 Fuentes consultadas
 (Enlaces a las noticias o informes usados)
+-Iberdrola — AI / retos smart grids (Global Smart Grids Innovation Hub, proyectos IA). [enlace](https://www.iberdrola.com/label/ai?utm_source=chatgpt.com)
+-Iberdrola — Uso de blockchain para certificar energía 100% renovable (comunicado). [enlace](https://www.iberdrola.com/press-room/news/detail/iberdrola-uses-blockchain-guarantee-that-energy-supplies-consumers-100-renewable?utm_source=chatgpt.com)
+-Iberdrola — Instalación de contadores inteligentes / smart grids. [enlace](https://www.iberdrola.com/press-room/news/detail/iberdrola-installed-over-million-smart-meters-spain?utm_source=chatgpt.com)
+-Iberdrola — Big Data y green data. [enlace](https://www.iberdrola.com/sustainability/big-data-and-environment?utm_source=chatgpt.com)
+-Iberdrola — Alianza y proyectos en la nube con Amazon / AWS (2025). [enlace](https://www.iberdrola.com/sala-comunicacion/noticias/detalle/iberdrola-amazon-alianza-energias-renovables-aws?utm_source=chatgpt.com)
+-Iberdrola — MeteoFlow (predicción meteorológica para renovables). [enlace](https://www.iberdrola.com/about-us/our-innovation-model/meteoflow-project?utm_source=chatgpt.com)
+-Iberdrola — Industrial Metaverse / RA-RV y proyectos VR para ingeniería. [enlace](https://www.iberdrola.com/about-us/our-innovation-model/metaverse-industrial?utm_source=chatgpt.com)
+-Noticia/reuters sobre joint venture de Iberdrola en data centres (2025) y modernización TI. [enlace](https://www.reuters.com/business/energy/spains-iberdrola-creates-data-centre-joint-venture-with-irelands-echelon-2025-07-28/?utm_source=chatgpt.com)
+-Artículos sobre ciberseguridad y resiliencia en Iberdrola. [enlace](https://www.iberdrola.com/conocenos/nuestro-modelo-innovacion/ciberseguridad/iberdrola-con-la-ciberseguridad?utm_source=chatgpt.com)
