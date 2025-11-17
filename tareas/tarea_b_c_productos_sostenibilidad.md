@@ -28,7 +28,7 @@ Describe cómo cada tecnología contribuye a la sostenibilidad y la eficiencia.
 
 | Tecnología | Ahorro energético | Reducción de residuos | Mejora operativa | Riesgos/limitaciones |
 |-----------|-------------------|-----------------------|------------------|----------------------|
-| IA | | | | |
+| IA |Optimiza despacho y reduce pérdidas por desbalance; mejora forecasting (menos curtailment).|Menos sobreproducción y pérdida de renovables; optimiza vida útil activos. |Automatiza decisiones, mantenimiento predictivo y optimización en tiempo real. |Modelos sesgados, necesidad de datos de calidad y consumo energético de modelos muy grandes. |
 | IoT | | | | |
 | Big Data | | | | |
 | Cloud | | | | |
