@@ -42,17 +42,23 @@ Describe cómo cada tecnología contribuye a la sostenibilidad y la eficiencia.
 Resume brevemente los casos y explica cómo podrían aplicarse a tu empresa.
 
 - Caso IA: i-DS / colaboración BCAM y MeteoFlow — Iberdrola usa modelos avanzados de predicción meteorológica y proyectos de IA para optimizar la operación de parques renovables y la gestión de redes.
+
 Aplicación: Integrar modelos IA en el control de planta y en el SCADA para predecir producción y ajustar despacho; ofrecer servicios de previsión a clientes industriales.
 - Caso IoT: Despliegue masivo de contadores inteligentes y smart grids — infraestructura de telemedida y sensores en red.
+
 Aplicación: Ampliar servicios de valor al consumidor (app con consumo en tiempo real, alertas y tarifas dinámicas) y conectar sensores en transformadores para mantenimiento predictivo.
 - Caso Big Data: Uso de “green data” y análisis satelital/meteorológico — analítica para optimizar recursos hídricos, eólicos y solares.
+
 Aplicación: Plataforma central de datos que combine producción, meteorología y comportamiento de consumidores para optimizar despacho y reducir pérdidas. 
 - Caso Cloud: Alianza con AWS / modernización TI — migración de workloads y uso de cloud para IA/HPC.
 - Caso Blockchain: Certificación de energía renovable vía blockchain y estudios P2P — trazabilidad de origen y pilots de mercado local.
+
 Aplicación: Servicio de “certificado renovable instantáneo” y marketplace P2P para autoconsumidores en barrios o comunidades energéticas.
 - Caso Ciberseguridad: Estrategia corporativa de resiliencia y seguridad operativa — enfoque integral de ciberseguridad y resiliencia para redes.
+
 Aplicación: Fortalecer SOC, segmentación OT/IT, pruebas de intrusión y servicios gestionados para clientes industriales críticos.
 - Caso RA/RV: Industrial Metaverse / estaciones VR para ingeniería — uso de VR para diseño y RA para mantenimiento.
+
 Aplicación: Entrenamiento VR para brigadas de mantenimiento y RA sobre dispositivos móviles para guiar reparaciones en campo con superposición de instrucciones.
 
 ---
