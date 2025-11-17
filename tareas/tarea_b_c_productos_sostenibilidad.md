@@ -70,7 +70,7 @@ Aplicación: Entrenamiento VR para brigadas de mantenimiento y RA sobre disposit
 
 ## 📚 Fuentes consultadas
 (Enlaces a las noticias o informes usados)
--Iberdrola — AI / retos smart grids (Global Smart Grids Innovation Hub, proyectos IA). [enlace](https://www.iberdrola.com/label/ai?utm_source=chatgpt.com)
+-Iberdrola — AI / retos smart grids (Global Smart Grids Innovation Hub, proyectos IA). [enlace](https://www.iberdrola.com/label/ai?utm_source=chatgpt.com) <br>
 -Iberdrola — Uso de blockchain para certificar energía 100% renovable (comunicado). [enlace](https://www.iberdrola.com/press-room/news/detail/iberdrola-uses-blockchain-guarantee-that-energy-supplies-consumers-100-renewable?utm_source=chatgpt.com)
 -Iberdrola — Instalación de contadores inteligentes / smart grids. [enlace](https://www.iberdrola.com/press-room/news/detail/iberdrola-installed-over-million-smart-meters-spain?utm_source=chatgpt.com)
 -Iberdrola — Big Data y green data. [enlace](https://www.iberdrola.com/sustainability/big-data-and-environment?utm_source=chatgpt.com)
