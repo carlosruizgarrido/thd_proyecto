@@ -70,12 +70,21 @@ Aplicación: Entrenamiento VR para brigadas de mantenimiento y RA sobre disposit
 
 ## 📚 Fuentes consultadas
 (Enlaces a las noticias o informes usados)
--Iberdrola — AI / retos smart grids (Global Smart Grids Innovation Hub, proyectos IA). [enlace](https://www.iberdrola.com/label/ai?utm_source=chatgpt.com) <br>
--Iberdrola — Uso de blockchain para certificar energía 100% renovable (comunicado). [enlace](https://www.iberdrola.com/press-room/news/detail/iberdrola-uses-blockchain-guarantee-that-energy-supplies-consumers-100-renewable?utm_source=chatgpt.com)
--Iberdrola — Instalación de contadores inteligentes / smart grids. [enlace](https://www.iberdrola.com/press-room/news/detail/iberdrola-installed-over-million-smart-meters-spain?utm_source=chatgpt.com)
--Iberdrola — Big Data y green data. [enlace](https://www.iberdrola.com/sustainability/big-data-and-environment?utm_source=chatgpt.com)
--Iberdrola — Alianza y proyectos en la nube con Amazon / AWS (2025). [enlace](https://www.iberdrola.com/sala-comunicacion/noticias/detalle/iberdrola-amazon-alianza-energias-renovables-aws?utm_source=chatgpt.com)
--Iberdrola — MeteoFlow (predicción meteorológica para renovables). [enlace](https://www.iberdrola.com/about-us/our-innovation-model/meteoflow-project?utm_source=chatgpt.com)
--Iberdrola — Industrial Metaverse / RA-RV y proyectos VR para ingeniería. [enlace](https://www.iberdrola.com/about-us/our-innovation-model/metaverse-industrial?utm_source=chatgpt.com)
--Noticia/reuters sobre joint venture de Iberdrola en data centres (2025) y modernización TI. [enlace](https://www.reuters.com/business/energy/spains-iberdrola-creates-data-centre-joint-venture-with-irelands-echelon-2025-07-28/?utm_source=chatgpt.com)
--Artículos sobre ciberseguridad y resiliencia en Iberdrola. [enlace](https://www.iberdrola.com/conocenos/nuestro-modelo-innovacion/ciberseguridad/iberdrola-con-la-ciberseguridad?utm_source=chatgpt.com)
+-Iberdrola — AI / retos smart grids (Global Smart Grids Innovation Hub, proyectos IA). [enlace](https://www.iberdrola.com/label/ai?utm_source=chatgpt.com) ---
+
+-Iberdrola — Uso de blockchain para certificar energía 100% renovable (comunicado). [enlace](https://www.iberdrola.com/press-room/news/detail/iberdrola-uses-blockchain-guarantee-that-energy-supplies-consumers-100-renewable?utm_source=chatgpt.com)---
+
+-Iberdrola — Instalación de contadores inteligentes / smart grids. [enlace](https://www.iberdrola.com/press-room/news/detail/iberdrola-installed-over-million-smart-meters-spain?utm_source=chatgpt.com)---
+
+-Iberdrola — Big Data y green data. [enlace](https://www.iberdrola.com/sustainability/big-data-and-environment?utm_source=chatgpt.com)---
+
+-Iberdrola — Alianza y proyectos en la nube con Amazon / AWS (2025). [enlace](https://www.iberdrola.com/sala-comunicacion/noticias/detalle/iberdrola-amazon-alianza-energias-renovables-aws?utm_source=chatgpt.com)---
+
+-Iberdrola — MeteoFlow (predicción meteorológica para renovables). [enlace](https://www.iberdrola.com/about-us/our-innovation-model/meteoflow-project?utm_source=chatgpt.com)---
+
+-Iberdrola — Industrial Metaverse / RA-RV y proyectos VR para ingeniería. [enlace](https://www.iberdrola.com/about-us/our-innovation-model/metaverse-industrial?utm_source=chatgpt.com)---
+
+-Noticia/reuters sobre joint venture de Iberdrola en data centres (2025) y modernización TI. [enlace](https://www.reuters.com/business/energy/spains-iberdrola-creates-data-centre-joint-venture-with-irelands-echelon-2025-07-28/?utm_source=chatgpt.com)---
+
+-Artículos sobre ciberseguridad y resiliencia en Iberdrola. [enlace](https://www.iberdrola.com/conocenos/nuestro-modelo-innovacion/ciberseguridad/iberdrola-con-la-ciberseguridad?utm_source=chatgpt.com)---
+
